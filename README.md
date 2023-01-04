@@ -10,9 +10,17 @@
 
 <div align=left>
   <a href="#" title="NangAnhIUH">
-    <img align="center" width="531" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&show_icons=true&hide=contribs" />
+    <img align="left" width="531" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&show_icons=true&hide=contribs" />
   </a>
-</div>
-
+ 
 <br>
+
+</div>
+  <a href="#" title="NangAnhIUH">
+<img align = "left" width="531" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangAnhIUH&layout=compact&show_icons=true" style="vertical-align: top;" />
+  </a>
+ 
+<br>
+
+<img align="left" width="1062" src="https://user-images.githubusercontent.com/105137720/210564901-782ffa8c-b289-4ca5-b664-b9d3b9c057d0.gif" />
 

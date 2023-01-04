@@ -10,14 +10,14 @@
 
 <div align=left>
   <a href="#" title="NangAnhIUH">
-    <img align="left" width="531" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&show_icons=true&hide=contribs" />
+    <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&show_icons=true&hide=contribs" />
   </a>
  
 <br>
 
 </div>
   <a href="#" title="NangAnhIUH">
-<img align = "left" width="531" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangAnhIUH&layout=compact&show_icons=true" style="vertical-align: top;" />
+<img align = "left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangAnhIUH&layout=compact&show_icons=true" style="vertical-align: top;" />
   </a>
  
 <br>

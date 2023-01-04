@@ -10,7 +10,7 @@
 
 <div align=left>
   <a href="#" title="NangAnhIUH">
-    <img align="center" width="531" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&theme=jolly&show_icons=true" />
+    <img align="center" width="531" src="https://github-readme-stats.vercel.app/api?username=NangAnhIUH&show_icons=true&hide=contribs" />
   </a>
 </div>
 
